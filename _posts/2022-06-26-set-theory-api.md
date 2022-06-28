@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Command-Line Interfaces and the Rabbithole Principle"
-date:   2022-06-26 20:34:32 +0200
+date:   3000-06-26 20:34:32 +0200
 categories: maths programming
 ---
 
