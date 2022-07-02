@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Life and the Backwards Arrow of Time"
+title:  "Life and Reverse Causation"
 date:   2022-06-28 12:00:00 +0200
 categories: life causation
 ---
